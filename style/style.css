@@ -282,11 +282,11 @@ background: var(--third-color);
 .footer{
     margin-top: 48px;
     margin-bottom: 112px;
+    background: var(--fourth-color);
 }
 .footer__content{
     display: flex;
     justify-content: center;
-    background: var(--fourth-color);
     padding: 83px 0 92px 0;
 }
 
